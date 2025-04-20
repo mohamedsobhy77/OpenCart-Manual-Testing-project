@@ -105,8 +105,8 @@ This hands-on testing effort was done as part of my QA learning journey and to d
 
 ## 📬 Contact
 
-- GitHub: [@kavyakb58](https://github.com/mohamedsobhy77)
-- LinkedIn: [@kavyakb58](https://www.linkedin.com/in/mohamedsobhyayesh/)
+- GitHub: [@Mohamed Sobhy](https://github.com/mohamedsobhy77)
+- LinkedIn: [@Mohamed Sobhy](https://www.linkedin.com/in/mohamedsobhyayesh/)
 
 ---
 
